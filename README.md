@@ -13,6 +13,7 @@
 - [Free courses and tutorials :computer:](courses/README.md)
 - [Internships :mag_right:](internships/README.md)
 - [Job opportunities :mag_right:](job_opportunities/README.md)
+- [Communities](communities/README.md)
 
 ### Contribution Guidelines :eyes: :warning: :white_check_mark:
 
@@ -39,3 +40,5 @@ _Ex: if the internship category wasn't there in the list_
 4. Tag myself or any of the maintanier of the repo.
 5. Wait for the confirmation/acceptance from one of the maintainers to make a PR.
 6. Make the PR and let others know that great piece of Information.
+
+**Note - each category might have its own set of guidelines for contributions please refer them before you submit your contributions.**
