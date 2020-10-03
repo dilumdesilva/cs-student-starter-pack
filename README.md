@@ -16,7 +16,7 @@
 
 ### Contribution Guidelines :eyes: :warning: :white_check_mark:
 
-This repositories is open to anyone for contributions. So, feel free to share the awsome resoucers that you have utilized or experinced during your time as a computer science or IT stdent. Let's help the other to make thier #UniLife remarkable.
+This repositories is open to anyone for contributions. So, feel free to share the awsome resoucers that you have utilized or experinced during your time as a computer science or IT stdent. Let's help the others to make thier **#UniLife** remarkable.
 
 Please follow the following guidelines if you want to add something to the **cs-student-starter-pack**
 
