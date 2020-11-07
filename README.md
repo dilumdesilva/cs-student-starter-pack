@@ -6,6 +6,7 @@
 
 - [Events and conferences :tickets: :airplane: :calendar:](events/README.md)
 - [Ambassadorships / Outreach programs :mortar_board: :school_satchel:](ambassadorship_programs/README.md)
+- [Scholarships](scholarships/README.md)
 - [Competitions and hackathons :triangular_flag_on_post: :trophy:](competitions/README.md)
 - [Open source tools and APIs :wrench: :computer: :cd:](tools/README.md)
 - [Awsome repositories :file_folder: :open_file_folder:](repo_collection/README.md)
@@ -34,7 +35,7 @@ Please follow the following guidelines if you want to add something to the **cs-
 
 _Ex: if the internship category wasn't there in the list_
 
-1. Create a issue in the repository with the category name you want to add to the pack/collection as `Add: internship category`.
+1. Create an issue in the repository with the category name you want to add to the pack/collection as `Add: internship category`.
 2. Explain the advantage of adding this to the collection in the issue body/description.
 3. Let's add relevant labels 🏷 (Ex: new-category, need-review)
 4. Tag myself or any of the maintanier of the repo.
