@@ -434,6 +434,7 @@ When you add a community under a specific country please, use one of the **main 
 - [Stackoverflowers Sri Lanka](https://www.facebook.com/groups/879149618935395/?ref=share)
 - [Google Developer Group Sri Lanka](https://www.facebook.com/GDGSriLanka/)
 - [Mozilla Sri Lanka](https://www.facebook.com/mozillalk/)
+- [NASA Space Apps Sri Lanka Community](https://discord.gg/e2KhFHTdzM)
 
 # Sudan,SD
 

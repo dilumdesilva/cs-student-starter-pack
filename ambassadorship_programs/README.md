@@ -15,3 +15,5 @@ This is a collection of ambassoadorships and outreach programs that are avaliabl
 9. [Microsoft Student Partners](https://studentambassadors.microsoft.com/en-us)
 10. [Mozilla Campus Club](https://campus.mozilla.community)
 11. [Student Ambassador By IBM](https://www.ibm.com/developerworks/champion/students.html)
+12. [Postman Student Leader](https://www.postman.com/company/student-program/)
+13. [Twilio Field Operators](https://airtable.com/shrNjeti4pr5ALdTg)
