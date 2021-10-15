@@ -12,8 +12,6 @@ This is a collection of public repositories which will help you to improve your 
 
 - [Mobile device screen sharing](https://github.com/Genymobile/scrcpy)
 - [Screen organizers](https://github.com/eczarny/spectacle)
-- [Oh-my-Zsh](https://github.com/ohmyzsh/ohmyzsh/wiki)
-- [Oh-my-Zsh Themes](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)
 - [Lazygit](https://github.com/jesseduffield/lazygit)
 - [RipGrep](https://github.com/BurntSushi/ripgrep)
 - [Fzf](https://github.com/junegunn/fzf)
