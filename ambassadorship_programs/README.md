@@ -9,7 +9,7 @@ This is a collection of ambassoadorships and outreach programs that are avaliabl
 3. [Campus Ambassador At Coding Ninjas](https://www.codingninjas.com/blog/tag/campus-ambassador/)
 4. [HackerEarth University Ambassador Program](https://www.hackerearth.com/university/)
 5. [OnePlus Student Ambassador](https://www.oneplus.in/campus)
-6. [Graduate Programme Advisor At Shell](https://www.shell.com/careers/about-careers-at-shell/shell-graduate-programme.htmla)
+6. [Graduate Programme Advisor At Shell](https://www.shell.com/careers/about-careers-at-shell/shell-graduate-programme.html)
 7. [TechGig Campus Ambassador Program](https://www.techgig.com/campus-ambassador)
 8. [Cisco DevNet Student Ambassador Program](https://developer.cisco.com/site/student/)
 9. [Microsoft Student Partners](https://studentambassadors.microsoft.com/en-us)
