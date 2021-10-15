@@ -2,11 +2,11 @@
 
 You can find more information of repository by clicking on the links. 
 
-**Git**
+# Git
 
 - [Git aliases](https://github.com/ohmyzsh/ohmyzsh/wiki/Cheatsheet)
 
-**Productivity**
+# Productivity
 
 This is a collection of public repositories which will help you to improve your productivity. 
 
