@@ -1,6 +1,7 @@
 # Competitions, Mentorship programs and Hackathons
 
 - [Season of KDE](https://season.kde.org/)
+- [Major League Hacking](https://mlh.io/)
 
 ## Competitions that promote open-source contributions
 - [Google Summer of Code](https://summerofcode.withgoogle.com/)
