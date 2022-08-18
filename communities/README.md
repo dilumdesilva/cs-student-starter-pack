@@ -513,3 +513,11 @@ When you add a community under a specific country please, use one of the **main 
 # Zambia,ZM
 
 # Zimbabwe,ZW
+
+## Communities that empower/motivate women in tech
+- [Girls In Tech](https://girlsintech.org/)
+- [Girls Teaching Girls to Code](https://www.girlsteachinggirlstocode.org/)
+- [Girls Who Code](https://girlswhocode.com/)
+- [Women Who Code](https://www.womenwhocode.com/)
+- [Women in Computer Science](https://www.stanfordwomenincomputerscience.com/)
+- [Built by Girls](https://www.builtbygirls.com/)

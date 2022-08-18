@@ -13,3 +13,6 @@ This is a collection of public repositories which will help you to improve your 
 - [Fzf](https://github.com/junegunn/fzf)
 - [Tmux](https://github.com/tmux/tmux/wiki)
 - [Proxy Toggle](https://github.com/theappbusiness/android-proxy-toggle)
+
+## Awesome repositories that empower women in tech
+- [awesome4girls by cristianoliveira](https://github.com/cristianoliveira/awesome4girls)
