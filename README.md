@@ -7,7 +7,7 @@
 - [Events and conferences :tickets: :airplane: :calendar:](events/README.md)
 - [Ambassadorships / Outreach programs :mortar_board: :school_satchel:](ambassadorship_programs/README.md)
 - [Scholarships](scholarships/README.md)
-- [Competitions and hackathons :triangular_flag_on_post: :trophy:](competitions/README.md)
+- [Competitions, mentorship programs and hackathons :triangular_flag_on_post: :trophy:](competitions/README.md)
 - [Open source tools and APIs :wrench: :computer: :cd:](tools/README.md)
 - [Awsome repositories :file_folder: :open_file_folder:](repo_collection/README.md)
 - [Free books :closed_book: :books: :book:](books/README.md)
