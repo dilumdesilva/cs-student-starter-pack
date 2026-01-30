@@ -15,6 +15,7 @@
 - [Internships :mag_right:](internships/README.md)
 - [Job opportunities :mag_right:](job_opportunities/README.md)
 - [Communities](communities/README.md)
+- [Terminal tools and environment configs :wrench: :desktop_computer:](terminal_tools/README.md)
 
 ### Contribution Guidelines :eyes: :warning: :white_check_mark:
 
