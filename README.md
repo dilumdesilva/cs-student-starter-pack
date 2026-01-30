@@ -1,5 +1,7 @@
 # cs-student-starter-pack
 
+[![Visit Website](https://img.shields.io/badge/Browse%20Resources-Visit%20Website-1a73e8?style=for-the-badge)](https://dilumdesilva.github.io/cs-student-starter-pack/)
+
 **Computer science student starter pack** is a repository which contains all the free and open source resources which can be helpful to any computer science or IT student.
 
 ### This starter pack is a collection of,
@@ -28,9 +30,13 @@ Please follow the following guidelines if you want to add something to the **cs-
 1. Fork this repository to make sure you have your own version of this collection.
 2. Validate that your contibution belongs to one of the items/sections from the above list (_ex: conference_).
 3. Find the related directory for your contribution (_ex: events/_).
-4. Add the name of the contribution to the README of that directory (_events/README.md_)
-5. Create a mardown file (_ex: abc_conference.md_) for that particular contribution.
-6. Once you add more information (_useful links, images or any related information_) to the newly created **markdown/.md file** make a PR.
+4. Add the name of the contribution to the README of that directory (_events/README.md_) using the markdown link format: `- [Resource Name](https://link) - Short description`.
+5. **Add the resource to the website** by editing `docs/app.js`. Find the `RESOURCES` array and add a new entry under the matching category section:
+   ```js
+   { name: "Resource Name", url: "https://link", description: "Short description", category: "Tech Events", subcategory: "", tags: ["relevant", "tags"] },
+   ```
+   Use one of the existing categories: `Ambassadorship Programs`, `Books`, `Communities`, `Competitions & Hackathons`, `Courses & Tutorials`, `Internships`, `Job Opportunities`, `Awesome Repositories`, `Cheat Sheets`, `Scholarships`, `Tech Events`, or `Terminal Tools`. Add a `subcategory` if the section in the markdown file has a subheading (e.g. `"Women in Tech"`, `"Open Source"`). Add a few lowercase `tags` to help with search.
+6. Once both files are updated, make a PR.
 
 **Let's say, you can't find a relavan catageory for your contribution**
 
@@ -41,6 +47,6 @@ _Ex: if the internship category wasn't there in the list_
 3. Let's add relevant labels 🏷 (Ex: new-category, need-review)
 4. Tag myself or any of the maintanier of the repo.
 5. Wait for the confirmation/acceptance from one of the maintainers to make a PR.
-6. Make the PR and let others know that great piece of Information.
+6. When making the PR, add the new category to both the markdown directory **and** the `RESOURCES` array and `CATEGORY_ORDER` array in `docs/app.js` so it appears on the website.
 
 **Note - each category might have its own set of guidelines for contributions please refer them before you submit your contributions.**
