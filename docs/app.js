@@ -244,10 +244,52 @@ const RESOURCES = [
   { name: "Homebrew", url: "https://github.com/Homebrew/brew", description: "The missing package manager for macOS and Linux", category: "Terminal Tools", subcategory: "Package Managers", tags: ["package manager", "macos", "linux"] },
   { name: "Nix", url: "https://github.com/NixOS/nix", description: "Reproducible, declarative package manager", category: "Terminal Tools", subcategory: "Package Managers", tags: ["package manager", "reproducible", "declarative"] },
   { name: "Scoop", url: "https://github.com/ScoopInstaller/Scoop", description: "Command-line installer for Windows", category: "Terminal Tools", subcategory: "Package Managers", tags: ["package manager", "windows", "installer"] },
+
+  // ── AI Resources ───────────────────────────────────────────────────────────
+  // Courses & Learning Platforms
+  { name: "Elements of AI", url: "https://www.elementsofai.com/", description: "Free introductory AI course by University of Helsinki and MinnaLearn", category: "AI Resources", subcategory: "Courses & Learning", tags: ["ai", "beginner", "free", "helsinki"] },
+  { name: "Google ML Crash Course", url: "https://developers.google.com/machine-learning/crash-course", description: "Fast-paced, practical introduction to machine learning by Google", category: "AI Resources", subcategory: "Courses & Learning", tags: ["google", "machine learning", "beginner", "free"] },
+  { name: "Stanford CS229 Machine Learning", url: "https://cs229.stanford.edu/", description: "Free lecture notes, problem sets, and materials from Stanford's ML course", category: "AI Resources", subcategory: "Courses & Learning", tags: ["stanford", "machine learning", "university", "free"] },
+  { name: "Stanford CS231n: CNNs for Visual Recognition", url: "https://cs231n.stanford.edu/", description: "Free lecture notes and assignments on deep learning for computer vision", category: "AI Resources", subcategory: "Courses & Learning", tags: ["stanford", "deep learning", "computer vision", "cnn"] },
+  { name: "MIT 6.S191 Intro to Deep Learning", url: "http://introtodeeplearning.com/", description: "MIT's introductory deep learning course with labs", category: "AI Resources", subcategory: "Courses & Learning", tags: ["mit", "deep learning", "free", "labs"] },
+  { name: "Hugging Face NLP Course", url: "https://huggingface.co/learn/nlp-course", description: "Free course on NLP using transformers and the Hugging Face ecosystem", category: "AI Resources", subcategory: "Courses & Learning", tags: ["nlp", "transformers", "hugging face", "free"] },
+  { name: "Kaggle Learn", url: "https://www.kaggle.com/learn", description: "Free micro-courses on ML, NLP, computer vision, and data science", category: "AI Resources", subcategory: "Courses & Learning", tags: ["kaggle", "micro-courses", "ml", "free"] },
+  { name: "Practical Deep Learning for Coders", url: "https://course.fast.ai/", description: "Free hands-on deep learning course by fast.ai", category: "AI Resources", subcategory: "Courses & Learning", tags: ["fast.ai", "deep learning", "practical", "free"] },
+  { name: "Deep Learning Specialization", url: "https://www.deeplearning.ai/courses/deep-learning-specialization/", description: "Five-course deep learning specialization by Andrew Ng (audit free on Coursera)", category: "AI Resources", subcategory: "Courses & Learning", tags: ["andrew ng", "deep learning", "coursera", "specialization"] },
+  // AI Tools & Platforms
+  { name: "Google Colab", url: "https://colab.research.google.com/", description: "Free Jupyter notebooks in the cloud with GPU/TPU access", category: "AI Resources", subcategory: "Tools & Platforms", tags: ["google", "jupyter", "gpu", "free", "cloud"] },
+  { name: "Kaggle", url: "https://www.kaggle.com/", description: "Free datasets, competitions, and GPU-powered notebooks", category: "AI Resources", subcategory: "Tools & Platforms", tags: ["kaggle", "datasets", "competitions", "gpu"] },
+  { name: "Hugging Face", url: "https://huggingface.co/", description: "Open platform for ML models, datasets, and Spaces", category: "AI Resources", subcategory: "Tools & Platforms", tags: ["hugging face", "models", "datasets", "open source"] },
+  { name: "Weights & Biases", url: "https://wandb.ai/", description: "ML experiment tracking and visualization, free for students", category: "AI Resources", subcategory: "Tools & Platforms", tags: ["mlops", "experiment tracking", "free", "visualization"] },
+  { name: "GitHub Copilot", url: "https://github.com/features/copilot", description: "AI pair programmer, free for students via GitHub Education", category: "AI Resources", subcategory: "Tools & Platforms", tags: ["github", "ai coding", "copilot", "free"] },
+  // Open Source Frameworks & Libraries
+  { name: "TensorFlow", url: "https://www.tensorflow.org/", description: "Open-source machine learning framework by Google", category: "AI Resources", subcategory: "Frameworks & Libraries", tags: ["google", "ml framework", "deep learning", "python"] },
+  { name: "PyTorch", url: "https://pytorch.org/", description: "Open-source deep learning framework by Meta", category: "AI Resources", subcategory: "Frameworks & Libraries", tags: ["meta", "deep learning", "python", "research"] },
+  { name: "scikit-learn", url: "https://scikit-learn.org/", description: "Free machine learning library for Python", category: "AI Resources", subcategory: "Frameworks & Libraries", tags: ["python", "ml", "classical ml", "library"] },
+  { name: "LangChain", url: "https://github.com/langchain-ai/langchain", description: "Framework for building applications with large language models", category: "AI Resources", subcategory: "Frameworks & Libraries", tags: ["llm", "framework", "python", "applications"] },
+  { name: "Ollama", url: "https://github.com/ollama/ollama", description: "Run large language models locally on your machine", category: "AI Resources", subcategory: "Frameworks & Libraries", tags: ["llm", "local", "open source", "cli"] },
+  { name: "LlamaIndex", url: "https://github.com/run-llama/llama_index", description: "Data framework for connecting LLMs to external data", category: "AI Resources", subcategory: "Frameworks & Libraries", tags: ["llm", "data", "rag", "framework"] },
+  // Learning Repositories
+  { name: "LLM Course", url: "https://github.com/mlabonne/llm-course", description: "Comprehensive course to get into Large Language Models with roadmaps", category: "AI Resources", subcategory: "Learning Repositories", tags: ["llm", "course", "roadmap", "free"] },
+  { name: "Generative AI for Beginners (Microsoft)", url: "https://github.com/microsoft/generative-ai-for-beginners", description: "18 lessons on building Generative AI applications by Microsoft", category: "AI Resources", subcategory: "Learning Repositories", tags: ["generative ai", "microsoft", "beginner", "lessons"] },
+  { name: "Practical Deep Learning (fastbook)", url: "https://github.com/fastai/fastbook", description: "The fast.ai book as free Jupyter notebooks", category: "AI Resources", subcategory: "Learning Repositories", tags: ["fast.ai", "deep learning", "notebooks", "free"] },
+  { name: "Prompt Engineering Guide", url: "https://github.com/dair-ai/Prompt-Engineering-Guide", description: "Guides and resources for prompt engineering", category: "AI Resources", subcategory: "Learning Repositories", tags: ["prompt engineering", "llm", "guide"] },
+  { name: "Awesome LLM", url: "https://github.com/Hannibal046/Awesome-LLM", description: "Curated list of Large Language Model resources", category: "AI Resources", subcategory: "Learning Repositories", tags: ["llm", "awesome list", "curated"] },
+  { name: "Open LLMs", url: "https://github.com/eugeneyan/open-llms", description: "List of open-source large language models available for commercial use", category: "AI Resources", subcategory: "Learning Repositories", tags: ["llm", "open source", "models", "list"] },
+  { name: "Deep Learning Papers Reading Roadmap", url: "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap", description: "Organized roadmap for reading deep learning research papers", category: "AI Resources", subcategory: "Learning Repositories", tags: ["deep learning", "papers", "research", "roadmap"] },
+  // Research & Community
+  { name: "arXiv CS AI", url: "https://arxiv.org/list/cs.AI/recent", description: "Free preprints of the latest AI research papers", category: "AI Resources", subcategory: "Research & Community", tags: ["arxiv", "research", "papers", "preprints"] },
+  { name: "Distill.pub", url: "https://distill.pub/", description: "Clear, interactive explanations of machine learning concepts", category: "AI Resources", subcategory: "Research & Community", tags: ["explanations", "interactive", "ml", "visualization"] },
+  { name: "Google AI Blog", url: "https://blog.google/technology/ai/", description: "Latest AI research and announcements from Google", category: "AI Resources", subcategory: "Research & Community", tags: ["google", "blog", "research", "news"] },
+  { name: "OpenAI Research", url: "https://openai.com/research", description: "Research publications and updates from OpenAI", category: "AI Resources", subcategory: "Research & Community", tags: ["openai", "research", "papers", "gpt"] },
+  // AI Ethics & Responsible AI
+  { name: "Awesome AI Guidelines", url: "https://github.com/EthicalML/awesome-artificial-intelligence-guidelines", description: "Curated list of AI ethics principles and guidelines", category: "AI Resources", subcategory: "Ethics & Responsible AI", tags: ["ethics", "guidelines", "responsible ai", "awesome list"] },
+  { name: "Responsible AI Toolbox (Microsoft)", url: "https://github.com/microsoft/responsible-ai-toolbox", description: "Tools for building responsible AI systems by Microsoft", category: "AI Resources", subcategory: "Ethics & Responsible AI", tags: ["microsoft", "responsible ai", "tools", "fairness"] },
 ];
 
 // ─── Category Order ──────────────────────────────────────────────────────────
 const CATEGORY_ORDER = [
+  "AI Resources",
   "Courses & Tutorials",
   "Books",
   "Awesome Repositories",

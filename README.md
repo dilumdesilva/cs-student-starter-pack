@@ -18,6 +18,7 @@
 - [Job opportunities :mag_right:](job_opportunities/README.md)
 - [Communities](communities/README.md)
 - [Terminal tools and environment configs :wrench: :desktop_computer:](terminal_tools/README.md)
+- [AI resources :robot: :brain:](ai_resources/README.md)
 
 ### Contribution Guidelines :eyes: :warning: :white_check_mark:
 
@@ -35,7 +36,7 @@ Please follow the following guidelines if you want to add something to the **cs-
    ```js
    { name: "Resource Name", url: "https://link", description: "Short description", category: "Tech Events", subcategory: "", tags: ["relevant", "tags"] },
    ```
-   Use one of the existing categories: `Ambassadorship Programs`, `Books`, `Communities`, `Competitions & Hackathons`, `Courses & Tutorials`, `Internships`, `Job Opportunities`, `Awesome Repositories`, `Cheat Sheets`, `Scholarships`, `Tech Events`, or `Terminal Tools`. Add a `subcategory` if the section in the markdown file has a subheading (e.g. `"Women in Tech"`, `"Open Source"`). Add a few lowercase `tags` to help with search.
+   Use one of the existing categories: `AI Resources`, `Ambassadorship Programs`, `Books`, `Communities`, `Competitions & Hackathons`, `Courses & Tutorials`, `Internships`, `Job Opportunities`, `Awesome Repositories`, `Cheat Sheets`, `Scholarships`, `Tech Events`, or `Terminal Tools`. Add a `subcategory` if the section in the markdown file has a subheading (e.g. `"Women in Tech"`, `"Open Source"`). Add a few lowercase `tags` to help with search.
 6. Once both files are updated, make a PR.
 
 **Let's say, you can't find a relavan catageory for your contribution**
