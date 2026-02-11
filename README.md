@@ -4,6 +4,8 @@
 
 **Computer science student starter pack** is a repository which contains all the free and open source resources which can be helpful to any computer science or IT student.
 
+**By learners. For learners. Open to all**
+
 ### This starter pack is a collection of,
 
 - [Events and conferences :tickets: :airplane: :calendar:](events/README.md)
