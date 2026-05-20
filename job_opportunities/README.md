@@ -10,6 +10,7 @@ A collection of resources for finding job opportunities in tech.
 - [AngelList](https://angel.co/) - Startup job board
 - [We Work Remotely](https://weworkremotely.com/) - Remote job listings
 - [Remote OK](https://remoteok.com/) - Remote job aggregator
+- [Hanzilla Jobs](https://jobs.hanzilla.co/) - Daily-updated Canadian student and new-grad jobs board
 
 ## Tech-Specific Job Boards
 
